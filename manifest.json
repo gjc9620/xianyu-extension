@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "xianyu",
-  "description": "This extension shows a search input result for the 2.taobao.com",
+  "description": "This extension improves better performance of xianyu",
   "version": "1.0",
 
   "content_scripts": [
