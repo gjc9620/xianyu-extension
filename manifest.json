@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "xianyu",
-  "description": "This extension shows a Google Image search result for the current page",
+  "description": "This extension shows a search input result for the 2.taobao.com",
   "version": "1.0",
 
   "content_scripts": [
