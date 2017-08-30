@@ -7,9 +7,11 @@ q是gbk编码 https://s.2.taobao.com/list/list.htm?q=%D2%C1%C0%FB%B5%A4&search_t
 
 #how to use
 
-![alt text](./assets/xianyu.gif)
+
+<img src="./assets/xianyu.gif" alt="err"/>
+
 
 or 
 
 
-![alt text](./assets/xianyu2.gif)
+<img src="./assets/xianyu2.gif" alt="err"/>
