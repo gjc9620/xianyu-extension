@@ -8,7 +8,7 @@
   "content_scripts": [
     {
       "matches": ["*://2.taobao.com/*", "*://s.2.taobao.com/*"],
-      "js": ["myscript.js"]
+      "js": ["./src/myscript.js"]
     }
   ]
 }
